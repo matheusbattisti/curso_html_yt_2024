@@ -1,0 +1,21 @@
+Exercícios de HTML Básico
+
+Exercício 1: Estrutura Básica do HTML
+
+Enunciado: Crie um arquivo HTML chamado pagina-inicial.html. Escreva o código necessário para estruturar uma página HTML básica, incluindo a declaração do tipo de documento, e as tags <html>, <head>, e <body>. Dentro do <head>, adicione um título para a página usando a tag <title>. No corpo da página (<body>), inclua um cabeçalho principal (<h1>) com o texto "Bem-vindo à Minha Primeira Página HTML".
+
+Exercício 2: Trabalhando com Parágrafos e Formatação de Texto
+
+Enunciado: Dentro da mesma página pagina-inicial.html, adicione três parágrafos de texto (<p>) sob o cabeçalho principal. No primeiro parágrafo, utilize a tag <strong> para enfatizar uma palavra. No segundo, use a tag <em> para dar ênfase a outra palavra. No terceiro parágrafo, inclua um link (<a>) para https://www.horadecodar.com.br com o texto âncora "Visite o site da Hora de Codar".
+
+Exercício 3: Inserindo Imagens
+
+Enunciado: Encontre uma imagem que você gostaria de incluir na sua página (assegure-se de ter os direitos para usá-la ou escolha uma imagem de domínio público). Adicione esta imagem abaixo dos parágrafos na sua página pagina-inicial.html usando a tag <img>. Lembre-se de fornecer um atributo alt apropriado para descrever a imagem.
+
+Exercício 4: Criando Listas
+
+Enunciado: Crie uma nova seção na sua página para "Meus Hobbies Favoritos". Use uma lista não ordenada (<ul>) para listar pelo menos cinco hobbies. Em seguida, crie outra seção chamada "Minha Lista de Tarefas" e use uma lista ordenada (<ol>) para listar três tarefas que você planeja realizar amanhã.
+
+Exercício 5: Estruturando com Divs
+
+Enunciado: Refatore sua página pagina-inicial.html, organizando o conteúdo em seções lógicas usando <div>. Crie uma <div> para o cabeçalho principal, outra para os parágrafos e links, uma terceira para a imagem e, finalmente, duas <div>s separadas para as listas de hobbies e tarefas. Aplique uma classe a cada <div> para identificá-las (por exemplo, class="header-section", class="content-section", etc.), preparando-as para estilização futura com CSS.
